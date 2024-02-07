@@ -1,4 +1,4 @@
-<h1><img src="./images/typingcat.gif" width="35" /> Hello! Welcome to my page</h1>
+<h1><img style="border-radius: 100; overflow: hidden;" src="./images/cat-roomba-exceptionally-fast.gif" width="35" /> Hello! Welcome to my page</h1>
 
 **`Software Engineer`**
 
