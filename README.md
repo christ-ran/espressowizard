@@ -1,4 +1,4 @@
-<h1 style="font-family: Inter, sans-serif;"><img src="./images/cool-doge.gif" width="30" /> こんにちは</h1>
+<h1><img src="./images/typingcat.gif" width="35" /> Hello! Welcome to my page!</h1>
 
 <!--
 **espressowizard/espressowizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
